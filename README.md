@@ -13,7 +13,8 @@ Provides feedback to improve password strength
 Python 3.6 or higher
 
 # Usage
-Run the password strength checker:
+Run the password strength checker: 
+
 python passwordcc.py
 
 # Example Output
