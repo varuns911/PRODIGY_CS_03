@@ -18,8 +18,8 @@ Run the password strength checker:
 python passwordcc.py
 
 # Example Output
-Enter the password to assess: password
-Password Strength: Very Weak
+Enter the password to assess:  password
+Password Strength:  Very Weak
 Suggestions to improve your password:
  - Password should be at least 8 characters long.
  - Password should include at least one uppercase letter.
